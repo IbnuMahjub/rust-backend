@@ -1,4 +1,6 @@
 mod db;
+mod middleware;
+
 mod handlers;
 mod models;
 mod routes;
